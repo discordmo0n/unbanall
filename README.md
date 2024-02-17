@@ -1,2 +1,5 @@
-# unbanall
-a simple unban all using http requests
+# Unbanall
+Unban all members from a server using http requests
+- made by .aydenn.
+- skid free
+
